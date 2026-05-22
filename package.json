@@ -1,0 +1,22 @@
+{
+  "name": "wa-code-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc11",
+    "axios": "^1.16.1",
+    "fs-extra": "^11.3.5",
+    "pino": "^10.3.1",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^25.0.4",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
